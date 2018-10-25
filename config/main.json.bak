@@ -1,0 +1,20 @@
+{
+    "PORT": 5555,
+    "ZMQ_URL": "tcp://127.0.0.1:28332",
+    "NETWORK": "testnet",
+    "SIGNATURE_LIFETIME_SEC": 5,
+    "UPDATE_FROM_BLOCK_HEIGHT": 123,
+    "ENCRYPT_PRIVATE_KEY_SALT": "",
+    "RPC": {
+        "PROTOCOL": "",
+        "HOST": "",
+        "PORT": "",
+        "USER": "",
+        "PASSWORD": ""
+    },
+	"db": {
+		"host": "127.0.0.1",
+		"port": "27017",
+		"database": "server_receive"
+	}
+}
